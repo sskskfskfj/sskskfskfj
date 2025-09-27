@@ -5,7 +5,7 @@
         ✨ Interested in: AI/ML & Web Development  
     </p>
 </div>
-
+ 
 <div style="text-align: left; margin-top: 20px;">
     <h2 style="color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
