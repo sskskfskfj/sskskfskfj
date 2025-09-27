@@ -2,7 +2,7 @@
     <h2 style="color: #c9d1d9;"> 🌱 About Me </h2>  
     <p style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9;">  
         🌱 Currently learning: Spring, Python, and PyTorch <br>  
-        ✨ Interested in: AI/ML & Web Development   
+        ✨ Interested in: AI/ML & Web Development    
     </p>
 </div>
  
